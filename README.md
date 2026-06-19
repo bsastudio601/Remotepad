@@ -11,7 +11,7 @@ It uses a XIAO RP2040, 9 diodes, 9 mx cherry switches, 1 rotary encoder and 12 S
 ![Schematic](Assets/Schematic.png)
 
 ## PCB
-I used 0.4mm traces.
+I used 0.4mm traces is most parts and 0.6mm for the power connections.
 ![PCB](Assets/PCB.png)
 
 ## Case
