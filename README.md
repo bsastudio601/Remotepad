@@ -18,4 +18,25 @@ I used 0.4mm traces is most parts and 0.6mm for the power connections.
 The case!
 ![case](Assets/Case.png)
 
+## Firmware
+It uses QMK FIremwire !
+
+## BOM
+
+| Component | Quantity |
+|-----------|----------|
+| XIAO RP2040 | 1x |
+| MX-Style Switch | 9x |
+| 1N4148 Diode | 9x |
+| Blank DSA keycaps | 9x | 
+| SK6812 MINI-E LEDs | 12x | 
+| EC11 rotary encoder | 1x 
+| M3 x 6mm Screws | 4x | 
+| M3x5mx4mm heatset inserts  4x | 
+| Custom PCB | 1x |
+| 3D printed case | 1x |
+
+
+
+
 
