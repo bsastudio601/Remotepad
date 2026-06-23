@@ -32,7 +32,7 @@ It uses QMK FIremwire I have plans to cutomize the layer to use them with my oth
 | SK6812 MINI-E LEDs | 12x | 
 | EC11 rotary encoder | 1x 
 | M3 x 6mm Screws | 4x | 
-| M3x5mx4mm heatset inserts  4x | 
+| M3x5mx4mm heatset inserts  |4x | 
 | Custom PCB | 1x |
 | 3D printed case | 1x |
 
