@@ -29,10 +29,12 @@ It uses QMK FIremwire I have plans to cutomize the layer to use them with my oth
 | MX-Style Switch | 9x |
 | 1N4148 Diode | 9x |
 | Blank DSA keycaps | 9x | 
-| SK6812 MINI-E LEDs | 12x | 
-| EC11 rotary encoder | 1x 
-| M3 x 6mm Screws | 4x | 
-| M3x5mx4mm heatset inserts  |4x | 
+| 20cm Female-Female Jumper Wires | 8x | 
+| 2.54mm 8 Pin Male Header | 1x | 
+| 3.3V piezo Buzzer | 1x |
+| M3x8mm Screws | 4x |
+| M3x16mm Screws | 4x |
+| M3x5mx4mm heatset inserts  |8x | 
 | Custom PCB | 1x |
 | 3D printed case | 1x |
 
